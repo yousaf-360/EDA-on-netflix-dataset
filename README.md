@@ -26,7 +26,7 @@ Dash and Plotly for building an interactive frontend to display the analysis res
 # Viewing the Notebook
 To view and interact with the Jupyter Notebook:
 
-Clone the repository: git clone https://github.com/yousaf-360/EDA-on-netflix-dataset
-Ensure you have Jupyter Notebook installed, or use Google Colab for an online alternative.
-Open the notebook via Jupyter Notebook or upload it to Google Colab.
-Run the cells to see the analysis and visualizations.
+* Clone the repository: git clone https://github.com/yousaf-360/EDA-on-netflix-dataset
+* Ensure you have Jupyter Notebook installed, or use Google Colab for an online alternative.
+* Open the notebook via Jupyter Notebook or upload it to Google Colab.
+* Run the cells to see the analysis and visualizations.
